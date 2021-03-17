@@ -8,3 +8,8 @@ pandas-challenge
 ## *Pandas Challange*
 
 ### PyCitySchools
+
+#### pandas-challenge.ipynb
+
+District Summary
+School Summary
